@@ -20,6 +20,7 @@ class PostImagesController < ApplicationController
   end
 
   def destroy
+    @post_image = 
   end
 
   # 投稿データのストロングパラメータ
